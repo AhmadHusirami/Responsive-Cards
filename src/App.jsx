@@ -1,4 +1,3 @@
-import React from "react";
 import AnimatedCard from "./components/Cards/AnimatedCard";
 
 const App = () => {
